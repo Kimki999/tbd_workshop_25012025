@@ -7,7 +7,11 @@
 function say_hello() {
     // CODE HERE!!!
     console.log("What is your name?")
-    console.log("Chutikan Chompu")
+    console.log("hello world")
+    console.log("my name is Uoiiaiei")
+    console.log("poppy god bless")
+    console.log("ว่าไงขุโด้ ระวั๋งขุโด้ด้ด้ด้ด้ด้ด้้ด้ด")
+
 }
 
 // Don’t change the code under this comment!
