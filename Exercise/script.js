@@ -7,6 +7,11 @@
 function say_hello() {
     // CODE HERE!!!
     console.log("What is your name?")
+    console.log("My name is Pantawan Khon Suay")
+    console.log("My name is Pantawan Ackerman")
+    console.log("Wo Jiao Sun Xinxin")
+    console.log("Cha neun Seong Meso me da")
+    console.log("I love Charmine <3")
     
 }
 
