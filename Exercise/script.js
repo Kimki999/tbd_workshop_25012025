@@ -7,6 +7,9 @@
 function say_hello() {
     // CODE HERE!!!
     console.log("What is your name?")
+    console.log("I am Batman")
+    console.log("Ore wa Narukami no Kakisuru")
+    console.log("ว่าไงเหย์จิ่")
     
 }
 
